@@ -1,0 +1,35 @@
+From 7842ea756f73baec3bac1c2801d359c76daf417f Mon Sep 17 00:00:00 2001
+From: kereee30 <nino_kereselidze@epam.com>
+Date: Sun, 25 May 2025 03:45:57 +0400
+Subject: [PATCH 3/3] Edit shopping list
+
+---
+ demo_repo/shopping.txt | 7 +++++--
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+diff --git a/demo_repo/shopping.txt b/demo_repo/shopping.txt
+index 5131313..eea774f 100644
+--- a/demo_repo/shopping.txt
++++ b/demo_repo/shopping.txt
+@@ -1,8 +1,8 @@
+ Shopping List
+ 
+-apples
++red apples
+ 6 bananas
+-yogurt
++vanilla yogurt
+ 2% milk
+ wheat bread
+ cereal
+@@ -20,3 +20,6 @@ flour
+ salsa
+ 12 eggs
+ butter
++coffee
++tomatoes
++pears
+\ No newline at end of file
+-- 
+2.49.0.windows.1
+

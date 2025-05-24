@@ -1,0 +1,28 @@
+diff --git a/demo_repo/shopping.txt b/demo_repo/shopping.txt
+index ef3b337..eea774f 100644
+--- a/demo_repo/shopping.txt
++++ b/demo_repo/shopping.txt
+@@ -1,10 +1,10 @@
+ Shopping List
+ 
+-apples
+-bananas
+-yogurt
+-milk
+-bread
++red apples
++6 bananas
++vanilla yogurt
++2% milk
++wheat bread
+ cereal
+ eggs
+ bacon
+@@ -20,3 +20,6 @@ flour
+ salsa
+ 12 eggs
+ butter
++coffee
++tomatoes
++pears
+\ No newline at end of file
