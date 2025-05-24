@@ -18,3 +18,5 @@ ice cream
 sugar
 flour
 salsa
+12 eggs
+butter
